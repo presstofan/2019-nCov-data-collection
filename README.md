@@ -1,6 +1,6 @@
 # COVID-19 (2019 Novel Coronavirus) data collection
 
-This repo hosts a selection of data I gathered for the COVID-19 (2019 Novel Coronavirus).
+This repo hosts a selection of data I gathered for the COVID-19 (2019 Novel Coronavirus). Analyses of the data were published to [databentobox.com](https://www.databentobox.com/).
 
 ## Data Sources
 
